@@ -12,6 +12,7 @@ sections:
       - url: /features
         style: primary
         label: Contato
+        icon_position: right
   - section_id: features
     type: section_features
     background: gray
