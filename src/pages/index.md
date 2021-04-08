@@ -93,7 +93,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Veja nossos propositos
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Saiba mais sobre nós
     actions:
       - label: Get Started
         url: /signup
