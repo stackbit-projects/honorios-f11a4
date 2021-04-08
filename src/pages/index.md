@@ -9,8 +9,7 @@ sections:
     content: |
       Clique no botão abaixo para entrar em contato
     actions:
-      - label: oC
-        url: /features
+      - url: /features
         style: primary
   - section_id: features
     type: section_features
