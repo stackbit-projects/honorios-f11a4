@@ -11,7 +11,7 @@ seo:
       value: Termos de Serviço
       keyName: property
     - name: 'og:description'
-      value: Terms of service page
+      value: Pagina de Termos de Serviço
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
