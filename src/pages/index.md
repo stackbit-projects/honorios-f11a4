@@ -95,7 +95,7 @@ sections:
     title: Veja nossos propositos
     subtitle: Saiba mais sobre nós
     actions:
-      - label: Get Started
+      - label: Sobre
         url: /signup
         style: primary
   - section_id: recent-posts
