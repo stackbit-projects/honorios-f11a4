@@ -51,7 +51,8 @@
                         "label": "About Us",
                         "url": "/about",
                         "style": "link",
-                        "icon": "envelope"
+                        "icon": "envelope",
+                        "has_icon": true
                     },
                     {
                         "label": "lorem-ipsum",
