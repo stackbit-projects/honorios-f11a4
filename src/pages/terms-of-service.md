@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+title: Termos de Serviço
 seo:
   title: Terms of Service
   description: Terms of service page
