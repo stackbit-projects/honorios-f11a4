@@ -11,6 +11,7 @@ sections:
     actions:
       - url: /features
         style: primary
+        label: Contato
   - section_id: features
     type: section_features
     background: gray
