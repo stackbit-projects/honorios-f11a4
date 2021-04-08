@@ -2,7 +2,7 @@
 title: Termos de Serviço
 seo:
   title: Termos de Serviço
-  description: Terms of service page
+  description: Pagina de Termos de Serviço
   extra:
     - name: 'og:type'
       value: website
