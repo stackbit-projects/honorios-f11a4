@@ -143,5 +143,6 @@
         "content": "© Honorios. Todos os direitos reservados."
     },
     "title": "Honorios",
-    "domain": "https://honorios-f11a4.netlify.app"
+    "domain": "https://honorios-f11a4.netlify.app",
+    "favicon": "images/icon.png"
 }
